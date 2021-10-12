@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Shital Solanke</h1>
-<h3 align="center">A Enthusiastic undergraduate CSE Student from Walchand College Of Engineering Sangli.</h3>
+<h3 align="center">Enthusiastic undergraduate CSE Student from Walchand College Of Engineering Sangli.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
